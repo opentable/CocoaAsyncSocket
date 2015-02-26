@@ -1,4 +1,4 @@
-version = '7.4.3'
+version = '7.4.4'
 
 Pod::Spec.new do |s|
   s.name     = 'CocoaAsyncSocket-OT'
