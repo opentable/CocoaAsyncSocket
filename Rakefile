@@ -31,6 +31,6 @@ task :clean do
 end
 
 desc "Builds the pod, tags git, pod push and bump version"
-task :release => :clean do
+task :release do
 	builder.pod_release
 end
